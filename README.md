@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi i'm Iksan Oktav Risandy</h1>
 <h3 align="center">Software engineering student who has big interest in Artificial Intelligence Development.</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1000/1*YF4KdQE-RadFtNa6n66wdg.gif")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1000/1*YF4KdQE-RadFtNa6n66wdg.gif">
 - I'm currently working in **VELIX (AI Assistant)**
 
 - 🧑‍💻 I’m currently learning **AI Development**

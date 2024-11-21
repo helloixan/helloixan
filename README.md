@@ -2,7 +2,7 @@
 <h3 align="center">Software engineering student who has big interest in Artificial Intelligence Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://learn.g2.com/hubfs/G2CM_FI730_Learn_Article_Images-%5Bfacial_recognition_stats%5D_V1a.png">
 
-- I'm currently working in **MY DORM (DORMITORY MANAGEMENT APP)**
+- I'm currently working in **MyDorm (Dormitory Management App)**
 
 - 🧑‍💻 I’m currently learning **AI Development**
 
